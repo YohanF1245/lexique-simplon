@@ -21,6 +21,7 @@
     * \~\~ \~\~ ~texte ~barrré~
     * \*\* \*\* et \_ \_  **gras et _italique_ imbriqués**
     *  \*\*\* \*\*\* ***tout en gras et italique***
+    * \\ pour aller a la ligne
     * \<sub> \<\sub> <sub>indice</sub>
     * \<sup> \<\sup> <sup>exposant</sup>
     * \<ins> \<\ins> <ins>texte souligné</ins>
